@@ -3,7 +3,7 @@ Disciplina de Banco de dados 1
 
 ## Minimundo - Prontoar
 
-- A aplicação web Prontoar, tem três situações de uso, na qual será destinado para: o médico,
+A aplicação web Prontoar, tem três situações de uso, na qual será destinado para: o médico,
 paciente e administrador (funcionário) da unidade de saúde.
 
 - Para o administrador, ele ganhará uma senha e um login único, logo, suas funcionalidades são
